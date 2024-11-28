@@ -6,7 +6,7 @@ Anx is an exciting new Discord bot currently in development, designed to enhance
 
 - This application is maily made of **Python** using `nextcord` module.
 
-You can contact me through discord
-[![Noname](https://img.shields.io/badge/Discord-S%CE%9AI%23%23972357305226125322?style=for-the-badge&logo=discord&logoColor=%23750000&labelColor=%23cab2fb&color=%237a7a7a)](https://discordapp.com/users/972357305226125322)
+You can contact me through discord:
+> [![Noname](https://img.shields.io/badge/Discord-S%CE%9AI%23%23972357305226125322?style=for-the-badge&logo=discord&logoColor=%23750000&labelColor=%23cab2fb&color=%237a7a7a)](https://discordapp.com/users/972357305226125322)
 
 
