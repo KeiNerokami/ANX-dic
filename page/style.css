@@ -4,30 +4,27 @@ body {
    background-color: #f4f7fa;
    margin: 0;
    padding: 0;
-        }
+}
 header {
    background-color: #1a73e8;
    color: white;
    padding: 20px;
    text-align: center;
-   x
-
-        }
+}
 header h1 {
    font-size: 3rem;
    margin: 0;
-        }
+}
 main {
    padding: 20px;
-        }
+}
 section {
    background-color: white;
    border-radius: 8px;
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
    margin: 20px 0;
    padding: 20px;
-   outline:black solid 3px ;
-        }
+}
 .bot {
    background-color: #333;
    color: white;
@@ -36,11 +33,11 @@ section {
    position: static;
    width: 100%;
    bottom: 0;
-        }
+}
 .bot a {
    color: #1a73e8;
    text-decoration: none;
-        }
+}
 .bot a:hover {
    text-decoration: underline;
-        }
+}
