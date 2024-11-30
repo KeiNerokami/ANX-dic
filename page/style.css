@@ -26,7 +26,7 @@ section {
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
    margin: 20px 0;
    padding: 20px;
-   outline: 3px solid black;
+   outline:black solid 3px ;
         }
 .bot {
    background-color: #333;
