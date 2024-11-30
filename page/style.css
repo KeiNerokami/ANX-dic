@@ -20,13 +20,13 @@ body {
  section {
     background-color: white;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5);
+    box-shadow: none;
     margin: 20px 0;
     padding: 20px;
     transition-duration: 5ms;
  }
  section:hover {
-    box-shadow: none;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5);
     position: relative;
     margin: 25px 0px;
  }
