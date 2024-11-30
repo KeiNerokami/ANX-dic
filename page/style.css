@@ -10,9 +10,8 @@ header {
    color: white;
    padding: 20px;
    text-align: center;
-   outline-color: black;
-   outline-width: 1px;
-   
+   outline: 1px solid black;
+
         }
 header h1 {
    font-size: 3rem;
